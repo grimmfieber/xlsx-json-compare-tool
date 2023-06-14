@@ -1,0 +1,15 @@
+{
+  "name": "json-address-helper",
+  "version": "1.0.0",
+  "description": "tool for extracting json data, converting xlsx and check if matches provided different xlsx same with produced.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musa Furkan Keskin",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

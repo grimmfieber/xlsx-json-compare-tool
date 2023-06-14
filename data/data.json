@@ -1,0 +1,9 @@
+{
+    "Istanbul": {
+        "cityLabel": "city.label.istanbul",
+        "districts": {
+            "Kadikoy": "district.label.kadikoy",
+            "Besiktas": "district.label.besiktas"
+        }
+    }
+}
